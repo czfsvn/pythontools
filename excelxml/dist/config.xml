@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<objitem filepath=".\localfiles\Õ÷Í¾-0.5v-µÀ¾ß±í90¶Î.xlsx" sheet="Sheet1" />
+	<giftitem filepath=".\localfiles\giftbag.xlsx" sheet="Sheet1" />
+	<giftxml outpath=".\localfiles\gift.xml" templatexml=".\localfiles\gift_template.xml" />
+</Config>

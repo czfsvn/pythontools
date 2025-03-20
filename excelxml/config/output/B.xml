@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Config>
+    <Record>
+        <SystemVersion>v2.0</SystemVersion>
+        <LogLevel>INFO</LogLevel>
+        <CacheSize>1024</CacheSize>
+        <学号>2501</学号>
+        <姓名>Joke</姓名>
+        <年龄>13</年龄>
+        <班级>25</班级>
+    </Record>
+    <Record>
+        <SystemVersion>v2.0</SystemVersion>
+        <LogLevel>INFO</LogLevel>
+        <CacheSize>1024</CacheSize>
+        <学号>2502</学号>
+        <姓名>Liming</姓名>
+        <年龄>14</年龄>
+        <班级>25</班级>
+    </Record>
+    <Record>
+        <SystemVersion>v2.0</SystemVersion>
+        <LogLevel>INFO</LogLevel>
+        <CacheSize>1024</CacheSize>
+        <学号>2503</学号>
+        <姓名>张安</姓名>
+        <年龄>12</年龄>
+        <班级>25</班级>
+    </Record>
+    <Record>
+        <SystemVersion>v2.0</SystemVersion>
+        <LogLevel>INFO</LogLevel>
+        <CacheSize>1024</CacheSize>
+        <学号>2504</学号>
+        <姓名>张三</姓名>
+        <年龄>13</年龄>
+        <班级>25</班级>
+    </Record>
+</Config>

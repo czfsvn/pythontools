@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='GB2312'?>
+<Config>
+	<bag manual_lua="0" id="900070" price="0" multibuy="false" switch="false" inInSuperPack="0" preview="0" rowNum="0" usemore="1">
+  	<rule type="3" />
+    <item id="673609" name="花神自选（杏花/石榴）" num="1        26" bind="1" />
+    <item id="673619" name="中立区-中立区" num="1000" bind="1" />
+    <item id="673629" name="帝王雄心" num="400" bind="1" />
+  </bag>
+  <bag manual_lua="0" id="101" price="0" multibuy="false" switch="false" inInSuperPack="0" preview="0" rowNum="0" usemore="1">
+  	<rule type="3" />
+    <item id="673609" name="中立区-中立区" num="12" bind="0" level="1" />
+    <item id="673619" name="帝王星芒" num="1001" bind="0" sex="3" />
+    <item id="673629" name="帝王雄心" num="1400" bind="0" />
+  </bag>
+  <bag manual_lua="0" id="101" price="0" multibuy="false" switch="false" inInSuperPack="0" preview="0" rowNum="0" usemore="1">
+  	<rule type="4" />
+    <item id="673609" name="中立区-中立区" num="12" bind="0" level="1" />
+    <item id="673619" name="帝王星芒" num="1001" bind="0" sex="3" />
+    <item id="673629" name="帝王雄心" num="1400" bind="0" />
+  </bag>
+  <bag manual_lua="0" id="900087" price="0" multibuy="false" switch="false" inInSuperPack="0" preview="0" rowNum="0" usemore="1">
+  	<rule type="4" />
+    <item id="673609" name="花神自选（杏花/石榴）" num="126" bind="1" />
+    <item id="673619" name="中立区-中立区" num="1000" bind="1" />
+    <item id="673629" name="帝王雄心" num="400" bind="1" />
+  </bag>
+  <bag manual_lua="0" id="900088" price="0" multibuy="false" switch="false" inInSuperPack="0" preview="0" rowNum="0" usemore="1">
+  	<rule type="4" />
+    <item id="673609" name="花神自选（杏花/石榴）" num="126" bind="1" />
+    <item id="673619" name="中立区-中立区" num="1000" bind="1" />
+    <item id="673629" name="帝王雄心" num="400" bind="1" />
+  </bag>
+  <bag manual_lua="0" id="101" price="0" multibuy="false" switch="false" inInSuperPack="0" preview="0" rowNum="0" usemore="1">
+  	<rule type="4" />
+    <item id="673609" name="中立区-中立区" num="12" bind="0" level="1" />
+    <item id="673619" name="帝王星芒" num="1001" bind="0" sex="3" />
+    <item id="673629" name="帝王雄心" num="1400" bind="0" />
+  </bag>
+  <bag manual_lua="0" id="101" price="0" multibuy="false" switch="false" inInSuperPack="0" preview="0" rowNum="0" usemore="1">
+  	<rule type="4" />
+    <item id="673609" name="中立区-中立区" num="12" bind="0" level="1" />
+    <item id="673619" name="帝王星芒" num="1001" bind="0" sex="3" />
+    <item id="673629" name="帝王雄心" num="1400" bind="0" />
+  </bag>
+  <bag manual_lua="0" id="900090" price="0" multibuy="false" switch="false" inInSuperPack="0" preview="0" rowNum="0" usemore="1">
+  	<rule type="4" />
+    <item id="673609" name="花神自选（杏花/石榴）" num="126" bind="1" />
+    <item id="673619" name="中立区-中立区" num="1000" bind="1" />
+    <item id="673629" name="帝王雄心" num="400" bind="1" />
+  </bag>
+</Config>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Config>
+	<bag manual_lua="0" id="662140" price="0" multibuy="false" switch="false" inInSuperPack="0" preview="0" rowNum="0" usemore="1">
+		<rule type="3" />
+		<items>
+			<item id="673609" level="0" num="126" bind="1" sex="0" needSpace="1" />
+		</items>
+	</bag>
+	<bag manual_lua="0" id="662143" price="0" multibuy="false" switch="false" inInSuperPack="0" preview="0" rowNum="0" usemore="1">
+		<rule type="4" />
+		<items>
+			<item id="673610" level="0" num="126" bind="1" sex="0" needSpace="1" />
+		</items>
+	</bag>
+</Config>

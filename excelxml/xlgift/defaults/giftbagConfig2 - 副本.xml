@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<giftbagconfig>
+    <bag id="900001" price="0" bind="1" multibuy="false" switch="false" usemore="1" isInSuperPack="0" rowNum="3" preview="0">
+        <rule type="3" />
+        <hint />
+        <item id="795" num="1" level="0" sex="0" needSpace="1" bind="1" minLevel="1" maxLevel="200" />
+        <item id="227" num="1" level="0" sex="0" needSpace="1" bind="1" minLevel="1" maxLevel="200" />
+        <item id="222" num="1" level="0" sex="0" needSpace="1" bind="1" minLevel="1" maxLevel="200" />
+    </bag>
+</giftbagconfig>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Config>
+  <GiftBag giftid="900003">
+    <Data ID="673609" name="帝心灵韵" num="126" bind="1" />
+    <Data ID="673619" name="帝王星芒" num="1000" bind="1" />
+    <Data ID="673629" name="帝王雄心" num="400" bind="1" />
+  </GiftBag>
+  <GiftBag giftid="100">
+    <Data ID="673609" name="帝心灵韵" num="12" bind="0" />
+    <Data ID="673619" name="帝王星芒" num="1001" bind="0" />
+    <Data ID="673629" name="帝王雄心" num="1400" bind="0" />
+  </GiftBag>
+</Config>

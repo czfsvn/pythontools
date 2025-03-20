@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Data>
+  <Record>
+    <ID>1</ID>
+    <Name>轩轩</Name>
+    <Age>10</Age>
+  </Record>
+  <Record>
+    <ID>2</ID>
+    <Name>黎明</Name>
+    <Age>65</Age>
+  </Record>
+</Data>

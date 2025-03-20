@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Config>
+	<objitem filepath="C:\Users\chengzhaofeng\Desktop\python\giftbag\defaults\1.xls" sheet="Sheet1" />
+	<giftitem filepath="C:\Users\chengzhaofeng\Desktop\python\giftbag\defaults\giftbag.xlsx" sheet="Sheet1" />
+	<giftxml outpath="C:\Users\chengzhaofeng\Desktop\python\giftbag\output\gift.xml" templatexml="C:\Users\chengzhaofeng\Desktop\python\giftbag\defaults\gift_template.xml" />
+</Config>
